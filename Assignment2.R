@@ -24,7 +24,7 @@
 	
 
 	getwd()
-	setwd("C:/YYYYYY/AMMA 2017/Data/data_2017/titanic") #This working directory is the folder where all the bank data is stored
+	setwd("C:/Users/Vatsal/Desktop/AMMA/titanic") #This working directory is the folder where all the bank data is stored
 	
 
 	titanic_train_2<-read.csv('train.csv')
